@@ -89,7 +89,7 @@ button{
 }
 
 .sec-button{
-    background-color: white;
+    background-color: transparent;
     color: hsl(224, 23%, 55%);
 }
 
